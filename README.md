@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this project, I follow the NIST 800-61 guide to respond to an incident thoroughly and effectively. Using the same virtual machines and logs and basically the entire setup from my honeynet project, I am now going to start responding and handling the incidents that accured on those systems. In this case I'll be focusing on the Brute force Success incident. 
+In this project, I follow the NIST 800-61 guide to respond to an incident thoroughly and effectively. Using the same virtual machines and logs and basically the entire setup from my honeynet project, I am now going to start responding and handling the incidents that occured on those systems. In this case I'll be focusing on the Brute force Success incident. 
 
 - SecurityEvent (Windows Event Logs)
 - Syslog (Linux Event Logs)
